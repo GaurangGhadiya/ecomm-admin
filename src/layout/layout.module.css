@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+}
+
+.appbar{
+    background-color: white;
+    color: black;
+    box-shadow: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+    /* box-shadow: 0 .125rem .25rem rgba(165, 163, 174, .3); */
+}
+
+.drawer{
+    background-color: white;
+    color: #6f6b7d;
+    /* box-shadow: 0 .125rem .25rem rgba(165, 163, 174, .3); */
+}
